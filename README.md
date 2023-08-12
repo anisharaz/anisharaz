@@ -24,7 +24,7 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40"
       height="40" /> </a> 
        <a href="#" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bash/bash-original.svg" alt="java" width="40"
+      src="https://raw.githubusercontent.com/anisharaz/anisharaz/main/_assets/icons8-bash-480.png" alt="java" width="40"
       height="40" /> </a> 
        <a href="#" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/docker/docker-original-wordmark.svg" alt="java" width="40"
