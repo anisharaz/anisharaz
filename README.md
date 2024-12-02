@@ -3,7 +3,7 @@
 ### I ensure they work to production by using DevOps tools and practices. 
 ### I love to write clean code.
 ### Here are tools,languages & skill i have..... but its not all what i got.
-![My Skills](https://skillicons.dev/icons?i=ts,nextjs,aws,bash,cloudflare,docker,express,figma,git,githubactions,grafana,jenkins,kafka,rabbitmq,kubernetes,linux,postgres,nginx,prisma,prometheus,react,redis,tailwind,js,html,css,)
+![My Skills](https://skillicons.dev/icons?i=ts,nextjs,aws,bash,cloudflare,docker,express,figma,git,githubactions,grafana,jenkins,terraform,kafka,rabbitmq,kubernetes,linux,postgres,nginx,prisma,prometheus,react,redis,tailwind,js,html,css,)
 
 ## Building [@BlockX3](http://blockx3.xyz/)
 
