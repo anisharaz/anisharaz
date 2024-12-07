@@ -5,7 +5,7 @@
 
 # Skills.
 ## DevOps
-![My Skills](https://skillicons.dev/icons?i=kubernetes,docker,aws,git,githubactions,grafana,jenkins,terraform,prometheus,bash,cloudflare,linux,nginx)
+![My Skills](https://skillicons.dev/icons?i=kubernetes,docker,aws,git,githubactions,grafana,jenkins,terraform,ansible,prometheus,bash,cloudflare,linux,nginx)
 ## Development
 ![My Skills](https://skillicons.dev/icons?i=ts,nextjs,express,kafka,rabbitmq,postgres,prisma,react,redis,tailwind,js,html,css,figma,)
 
