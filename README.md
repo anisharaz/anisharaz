@@ -1,7 +1,7 @@
 # Hi There 👋
-### I build web apps in web2 & web3.
-### I ensure they work to production by using DevOps tools and practices. 
-### I love to write clean code.
+### I build web apps and ensure they work to production using best tools and practices.
+### I love to write clean & performant code.
+### I am mostly into Backend | DevOps | System design | Automation.
 
 # Skills.
 ## DevOps
