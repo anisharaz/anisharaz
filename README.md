@@ -1,7 +1,7 @@
-# Hi There 👋
-### I build web apps and ensure they work to production using best tools and practices.
+# Hi there, I'm anish
+### I am Anish. Full-stack development, DevOps, and server administration are what I do.
 ### I love to write clean & performant code.
-### I am mostly into Backend | DevOps | System design | Automation.
+### I am mostly into Backend | DevOps | System design | Linux & Automation.
 
 # Skills.
 ## DevOps
