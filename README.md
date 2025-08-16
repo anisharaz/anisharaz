@@ -1,6 +1,6 @@
 # Hi there, I'm anish
-### I am Anish. Full-stack development, DevOps, and server administration are what I do.
-### I love to write clean & performant code.
+### Full-stack development, DevOps, and server administration are what I do.
+### I love to write clean & performant code, and
 ### I am mostly into Backend | DevOps | System design | Linux & Automation.
 
 # Skills.
